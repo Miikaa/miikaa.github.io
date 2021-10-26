@@ -1,10 +1,32 @@
+article {
+    background-color: rgb(13, 13, 114);
+}
+
 body {
-    background-color: black;
+    background: #d11111;
     color: white;
 }
 
 h1 {
     font-size: 20px;
+    border: 1px solid darkgoldenrod;
+}
+
+h2 {
+    font-size: 20px;
+    border: 4px dotted rgb(9, 212, 226);
+}
+
+figure {
+    margin-left: 1px;
+}
+
+#beetroot {
+    width: 50%;
+}
+
+#carrot {
+    opacity: 0.5;
 }
 
 p {

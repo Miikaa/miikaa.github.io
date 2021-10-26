@@ -3,7 +3,10 @@ article {
 }
 
 body {
-    background: #d11111;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    background: #380e0e;
     color: white;
 }
 
@@ -29,6 +32,11 @@ figure {
     opacity: 0.5;
 }
 
+#potato {
+    width: 400px;
+    height: 200px;
+}
+
 p {
     font-size: 12px;
     color:green;
@@ -42,4 +50,14 @@ div {
 
 ul {
     list-style-type: square;
+}
+
+section {
+    background-color: darkgreen;
+}
+
+nav {
+    border: 1px solid #f501b8;
+    margin-bottom: 20px;
+    background-color: black;
 }

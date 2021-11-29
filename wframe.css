@@ -1,0 +1,47 @@
+h1 {
+    text-align: center;
+}
+.row {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.col-sm-4 {
+    border: 1px solid white;
+}
+.col-sm-6 {
+    border: 1px solid white;
+}
+
+header {
+    margin-bottom: 10px;
+}
+
+.border {
+    border: 1px solid black !important;
+    left: 50%;
+    position: fixed;
+}
+
+.logo {
+    float: left;
+    padding: 8px;
+    border-right: 1px solid black !important;
+}
+
+.nav-link {
+    display: block;
+    padding: 0.5rem 1rem;
+}
+
+.nav-link.active {
+    color: black;
+}
+
+.nav-item {
+    float: right;
+}
+
+.container {
+    padding-top: 50px;
+}

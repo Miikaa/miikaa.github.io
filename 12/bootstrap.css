@@ -58,3 +58,7 @@ section {
 p {
     margin-left: 10px;
 }
+
+.form-group {
+    padding-top: 15px;
+}
